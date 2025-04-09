@@ -51,6 +51,7 @@ public class Project18 {
 		}
 		System.out.println();
 		System.out.println("The path total is: " + Total);
+		System.out.println();
 		//-------------------------------------------------------------------------
 		Scanner s = new Scanner(new File("triangle.txt")); 
 		for(int i=0;i<rows;++i) {
