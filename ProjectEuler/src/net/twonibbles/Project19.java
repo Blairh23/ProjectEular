@@ -8,7 +8,7 @@ public class Project19 {
 		
 		int day = 23, month = 2, year = 2010;
 		int dayOfWeekResult = DayOfWeek.dayOfWeek(day,month,year);
-		System.out.println(dayOfWeekResult);
+		System.out.println("Day number: " + dayOfWeekResult);
 		DayOfWeek.findDay(month, day, year);
 		
 		
